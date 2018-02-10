@@ -11,7 +11,8 @@ export default class Footer extends React.Component {
       <div className='footer'>
 
         {/* starts footer */}
-        <footer id="footer" style="margin-top:0;">
+        {/* <footer id="footer" style="margin-top:0;"> */}
+        <footer id="footer">
             <div class="container">
                 <div class="row info">
                     <div class="col-sm-6 residence">
